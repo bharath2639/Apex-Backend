@@ -1,0 +1,25 @@
+[
+    {
+      "pokemonOwnerName": "Srinivas",
+      "pokemons": [
+        {
+          "pokemonOwnerName": "Srinivas",
+          "direction": "12",
+          "initialPositionX": "12",
+          "initialPositionY": "12",
+          "pokemonName": "ivysaur",
+          "pokemonAbility": "chlorophyll",
+          "speed": "12"
+        },
+        {
+          "pokemonOwnerName": "Srinivas",
+          "direction": "12",
+          "initialPositionX": "12",
+          "initialPositionY": "12",
+          "pokemonName": "blastoise",
+          "pokemonAbility": "torrent",
+          "speed": "12"
+        }
+      ]
+    }
+  ]
